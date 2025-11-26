@@ -584,9 +584,12 @@ data_augmentation = Sequential([
 ## References
 [1] J. Heaton, “Ian goodfellow, yoshua bengio, and aaron courville: Deep learning,” Genet.
 Program. Evolvable Mach., vol. 19, no. 1-2, pp. 305–307, jun 2018.
+
 [2] D. Kingma and J. Ba, “Adam: A method for stochastic optimization,” International Con￾ference on Learning Representations, 12 2014.
+
 [3] J. Brownlee, “Gentle Introduction to the Adam Optimization Algorithm for
 Deep Learning - MachineLearningMastery.com — machinelearningmastery.com,”
+
 https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/,
 [Accessed 26-11-2025].
 [4] A. Mittal, “Optimizers in Machine Learning and AI: A Comprehen￾sive Overview — anshm18111996,” https://medium.com/@anshm18111996/
