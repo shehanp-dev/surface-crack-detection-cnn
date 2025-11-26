@@ -59,7 +59,7 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 - **Split**: 70% Train (28,000) / 15% Val (6,000) / 15% Test (6,000)
 
 ### Sample Images
-![Sample Imeges ](Imeges/Smaple Imeges.png)
+![Alt text](Imeges/Smaple Imeges.png)
 *Sample images from Negative (no crack) and Positive (crack) classes*
 
 ---
@@ -158,7 +158,7 @@ surface-crack-detection-cnn/
 
 Custom-built CNN with three convolutional blocks and progressive filter scaling.
 
-![Custom CNN](images/custom_cnn_architecture.png)  
+![Custom CNN](Images/Custom_CNN.png)  
 *Custom CNN architecture with 3 convolutional blocks*
 
 #### Architecture Flow
