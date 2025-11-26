@@ -59,7 +59,7 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 - **Split**: 70% Train (28,000) / 15% Val (6,000) / 15% Test (6,000)
 
 ### Sample Images
-![Custom CNN](Images/Custom_CNN.png)  
+![Custom CNN](Images/Smaple_Imeges.png)  
 *Custom CNN architecture with 3 convolutional blocks*
 
 ---
