@@ -59,7 +59,7 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 - **Split**: 70% Train (28,000) / 15% Val (6,000) / 15% Test (6,000)
 
 ### Sample Images
-![Alt text](Imeges/Smaple Imeges.png)
+![Sample Imeges](Imeges/SSmaple_Imeges.png)
 *Sample images from Negative (no crack) and Positive (crack) classes*
 
 ---
@@ -176,8 +176,6 @@ Conv2D(128, 3×3, ReLU) → MaxPool2D → (16×16×128)
 Flatten → Dense(256, ReLU) → Dropout(0.5) → Dense(2, Softmax)
 ```
 
-![Architecture Diagram](images/model_architecture_diagram.png)  
-*Detailed architecture visualization*
 
 **Specifications**:
 - **Total Parameters**: 8,482,626 (32.36 MB)
@@ -201,7 +199,7 @@ Flatten → Dense(256, ReLU) → Dropout(0.5) → Dense(2, Softmax)
 
 ### 2. ResNet50 Transfer Learning
 
-![ResNet50](images/resnet50_architecture.png)  
+![ResNet50](Images/ResNet50.png)  
 *ResNet50 architecture with frozen base and trainable head*
 ```
 Input (128×128×3) → ResNet50 Base (Frozen, 2048 features)
@@ -214,7 +212,7 @@ Input (128×128×3) → ResNet50 Base (Frozen, 2048 features)
 
 ### 3. EfficientNetB0 Transfer Learning
 
-![EfficientNetB0](images/efficientnet_architecture.png)  
+![EfficientNetB0](Images/EfficientNetB0.png)  
 *EfficientNetB0 architecture with compound scaling*
 ```
 Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
@@ -229,7 +227,7 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 
 ### Optimizer Comparison
 
-![Optimizer Comparison](results/plots/optimizer_comparison.png)  
+![Optimizer Comparison](Imeges/Optimizer_Comparision.jpg)  
 *Training curves comparing Adam, SGD, and SGD+Momentum*
 
 | Optimizer | Val Accuracy | Epochs to 90% | Val Loss | Convergence |
@@ -249,19 +247,19 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 <tr>
 <td width="33%">
 
-![Adam](results/plots/training_adam.png)  
+![Adam](Imeges/Adam.jpg)  
 **Adam Optimizer**
 
 </td>
 <td width="33%">
 
-![SGD](results/plots/training_sgd.png)  
+![SGD](Imeges/SGD.jpg)  
 **SGD Optimizer**
 
 </td>
 <td width="33%">
 
-![SGD+Momentum](results/plots/training_sgd_momentum.png)  
+![SGD+Momentum](Imeges/SGD+Momentum.jpg)  
 **SGD with Momentum**
 
 </td>
@@ -276,7 +274,7 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 - **Recall**: 92.65%
 - **F1-Score**: 92.88%
 
-![Confusion Matrix](results/plots/confusion_matrix_adam.png)  
+![Confusion Matrix](Imeges/IMG-20251126-WA0017.jpg)  
 *Confusion matrix showing 5,981/6,000 correct predictions (99.68% accuracy)*
 
 ---
@@ -287,13 +285,13 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 <tr>
 <td width="50%">
 
-![ResNet50](results/plots/training_resnet50.png)  
+
 **ResNet50 Training**
 
 </td>
 <td width="50%">
 
-![EfficientNetB0](results/plots/training_efficientnet.png)  
+
 **EfficientNetB0 Training**
 
 </td>
