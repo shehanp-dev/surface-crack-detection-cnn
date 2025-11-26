@@ -307,7 +307,7 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 
 ### Final Comparison
 
-![Final Comparison](results/plots/final_comparison.png)  
+![Final Comparison](Images/Results.png)  
 *Comprehensive performance comparison across all models*
 
 | Model | Accuracy | Parameters | Size | Speed | Use Case |
