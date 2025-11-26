@@ -64,7 +64,7 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 
 ---
 
-## Quick Start
+## Running the Code
 
 ### Run in Google Colab (Recommended)
 
@@ -582,18 +582,40 @@ data_augmentation = Sequential([
 
 
 ## References
-
-[1] D. B. Gurion, "Image Classification Transfer Learning and Fine Tuning using TensorFlow," *Medium*, Nov. 2021.
-
-[2] Keras Team, "Keras documentation: Adam optimizer." [Online]. Available: https://keras.io/api/optimizers/adam/
-
-[3] K. P. Murphy, *Probabilistic Machine Learning: An Introduction*. MIT Press, 2022.
-
-[4] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner, "Gradient-based learning applied to document recognition," *Proceedings of the IEEE*, vol. 86, no. 11, pp. 2278-2324, 1998.
-
-[5] K. He, X. Zhang, S. Ren, and J. Sun, "Deep residual learning for image recognition," *CVPR*, pp. 770-778, 2016.
-
-[6] M. Tan and Q. Le, "EfficientNet: Rethinking model scaling for CNNs," *ICML*, pp. 6105-6114, 2019.
+[1] J. Heaton, “Ian goodfellow, yoshua bengio, and aaron courville: Deep learning,” Genet.
+Program. Evolvable Mach., vol. 19, no. 1-2, pp. 305–307, jun 2018.
+[2] D. Kingma and J. Ba, “Adam: A method for stochastic optimization,” International Con￾ference on Learning Representations, 12 2014.
+[3] J. Brownlee, “Gentle Introduction to the Adam Optimization Algorithm for
+Deep Learning - MachineLearningMastery.com — machinelearningmastery.com,”
+https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/,
+[Accessed 26-11-2025].
+[4] A. Mittal, “Optimizers in Machine Learning and AI: A Comprehen￾sive Overview — anshm18111996,” https://medium.com/@anshm18111996/
+comprehensive-overview-optimizers-in-machine-learning-and-ai-57a2b0fbcc79, [Ac￾cessed 26-11-2025].
+[5] K. Team, “Keras documentation: SGD — keras.io,” https://keras.io/api/optimizers/sgd/,
+[Accessed 26-11-2025].
+[6] D. B. Gurion, “Image Classification Transfer Learning and Fine Tuning using
+TensorFlow,” Nov. 2021. [Online]. Available: https://medium.com/data-science/
+image-classification-transfer-learning-and-fine-tuning-using-tensorflow-a791baf9dbf3
+[7] K. Team, “Keras documentation: Adam.” [Online]. Available: https://keras.io/api/
+optimizers/adam/
+[8] S. Lau, “Learning Rate Schedules and Adaptive Learning Rate Meth￾ods for Deep Learning — medium.com,” https://medium.com/data-science/
+learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1,
+[Accessed 26-11-2025].
+[9] “A disciplined approach to neural network hyper-parameters: Part 1 – learning rate, batch
+size, momentum, and weight decay — ar5iv.labs.arxiv.org,” https://ar5iv.labs.arxiv.org/
+html/1803.09820, [Accessed 26-11-2025].
+[10] K. Zhu, “What is Momentum in Optimization for Deep Learning? — aiml.com,” https:
+//aiml.com/what-is-momentum-in-the-context-of-optimization/, [Accessed 26-11-2025].
+[11] “Transfer learning and fine-tuning — TensorFlow Core — tensorflow.org,” https://www.
+tensorflow.org/tutorials/images/transfer learning, [Accessed 26-11-2025].
+[12] “Building powerful image classification models us￾ing very little data — blog.keras.io,” https://blog.keras.io/
+building-powerful-image-classification-models-using-very-little-data.html, [Accessed
+26-11-2025].
+[13] “EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks — proceed￾ings.mlr.press,” https://proceedings.mlr.press/v97/tan19a.html, [Accessed 26-11-2025].
+43
+[14] K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in
+2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE,
+Jun. 2016, pp. 770–778.
 
 ---
 
