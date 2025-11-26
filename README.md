@@ -60,7 +60,7 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 
 ### Sample Images
 
-![Dataset Samples](images/dataset_samples.png)  
+![Dataset Samples](<img width="666" height="228" alt="Image" src="https://github.com/user-attachments/assets/fd9868ae-38bf-43a0-b8a9-21fdb9f45056" />)  
 *Sample images from Negative (no crack) and Positive (crack) classes*
 
 ---
