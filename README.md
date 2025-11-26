@@ -59,7 +59,7 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 - **Split**: 70% Train (28,000) / 15% Val (6,000) / 15% Test (6,000)
 
 ### Sample Images
-![Sample Imeges](Imeges/Smaple_Imeges.png)
+![Sample Imeges](Images/Smaple_Imeges.png)
 *Sample images from Negative (no crack) and Positive (crack) classes*
 
 ---
