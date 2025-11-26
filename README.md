@@ -253,13 +253,13 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 </td>
 <td width="33%">
 
-![SGD](Imeges/SGD.jpg)  
+![SGD](Images/SGD.jpg)  
 **SGD Optimizer**
 
 </td>
 <td width="33%">
 
-![SGD+Momentum](Imeges/SGD+Momentum.jpg)  
+![SGD+Momentum](Images/SGD+Momentum.jpg)  
 **SGD with Momentum**
 
 </td>
@@ -307,7 +307,7 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 
 ### Final Comparison
 
-![Final Comparison](Images/Results.png)  
+![Final Comparison](Results.png)  
 *Comprehensive performance comparison across all models*
 
 | Model | Accuracy | Parameters | Size | Speed | Use Case |
