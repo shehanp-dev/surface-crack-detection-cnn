@@ -33,7 +33,7 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 ### Project Components
 
 **Part 1: Custom CNN**
-- Built from scratch with 8.5M parameters
+- Built with 8.5M parameters
 - Compared three optimizers: Adam, SGD, SGD+Momentum
 
 **Part 2: Transfer Learning**
