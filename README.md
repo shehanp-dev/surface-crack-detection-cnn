@@ -59,7 +59,7 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 - **Split**: 70% Train (28,000) / 15% Val (6,000) / 15% Test (6,000)
 
 ### Sample Images
-![Sample Imeges](Imeges/SSmaple_Imeges.png)
+![Sample Imeges](Imeges/Smaple_Imeges.png)
 *Sample images from Negative (no crack) and Positive (crack) classes*
 
 ---
@@ -227,7 +227,7 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 
 ### Optimizer Comparison
 
-![Optimizer Comparison](Imeges/Optimizer_Comparision.jpg)  
+![Optimizer Comparison](Images/Optimizer_Comparision.jpg)  
 *Training curves comparing Adam, SGD, and SGD+Momentum*
 
 | Optimizer | Val Accuracy | Epochs to 90% | Val Loss | Convergence |
@@ -247,7 +247,7 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 <tr>
 <td width="33%">
 
-![Adam](Imeges/Adam.jpg)  
+![Adam](Images/Adam.jpg)  
 **Adam Optimizer**
 
 </td>
@@ -274,7 +274,7 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 - **Recall**: 92.65%
 - **F1-Score**: 92.88%
 
-![Confusion Matrix](Imeges/IMG-20251126-WA0017.jpg)  
+![Confusion Matrix](Images/IMG-20251126-WA0017.jpg)  
 *Confusion matrix showing 5,981/6,000 correct predictions (99.68% accuracy)*
 
 ---
