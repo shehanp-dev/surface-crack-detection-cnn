@@ -4,7 +4,7 @@
 **Department of Electronic & Telecommunication Engineering**  
 **University of Moratuwa, Sri Lanka**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/github/YOUR_USERNAME/surface-crack-detection-cnn/blob/main/notebooks/EN3150_Assignment_03_Group_10.ipynb](https://colab.research.google.com/drive/1LWsNK3Pqmf_nvmpYgUO4LS-Uvc3agELg?usp=sharing](https://colab.research.google.com/drive/1LWsNK3Pqmf_nvmpYgUO4LS-Uvc3agELg?usp=sharing)))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LWsNK3Pqmf_nvmpYgUO4LS-Uvc3agELg?usp=sharing)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)](https://www.tensorflow.org/)
 [![License](https://img.shields.io/badge/License-Academic-green.svg)](LICENSE)
@@ -68,8 +68,8 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 
 ### Run in Google Colab 
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)]
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/github/YOUR_USERNAME/surface-crack-detection-cnn/blob/main/notebooks/EN3150_Assignment_03_Group_10.ipynb](https://colab.research.google.com/drive/1LWsNK3Pqmf_nvmpYgUO4LS-Uvc3agELg?usp=sharing](https://colab.research.google.com/drive/1LWsNK3Pqmf_nvmpYgUO4LS-Uvc3agELg?usp=sharing)))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LWsNK3Pqmf_nvmpYgUO4LS-Uvc3agELg?usp=sharing)
+
 
 **Steps**:
 1. Click the badge above to open in Colab
