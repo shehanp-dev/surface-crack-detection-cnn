@@ -226,7 +226,7 @@ Input (128×128×3) → EfficientNetB0 Base (Frozen, 1280 features)
 
 ### Optimizer Comparison
 
-![Optimizer Comparison](Images/Optimizer_Comparision.jpgg)  
+![Optimizer Comparison](Images/Optimizer_Comparision.jpg)  
 *Training curves comparing Adam, SGD, and SGD+Momentum*
 
 | Optimizer | Val Accuracy | Epochs to 90% | Val Loss | Convergence |
