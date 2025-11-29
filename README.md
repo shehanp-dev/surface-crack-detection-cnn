@@ -68,7 +68,7 @@ This project implements and compares Convolutional Neural Networks (CNNs) for au
 
 ### Run in Google Colab 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/surface-crack-detection-cnn/blob/main/notebooks/EN3150_Assignment_03_Group_10.ipynb)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/surface-crack-detection-cnn/blob/main/notebooks/EN3150_Assignment_03_Group_10.ipynb](https://colab.research.google.com/drive/1LWsNK3Pqmf_nvmpYgUO4LS-Uvc3agELg?usp=sharing))
 
 **Steps**:
 1. Click the badge above to open in Colab
